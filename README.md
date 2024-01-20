@@ -1,0 +1,2 @@
+# devtr
+devops training core
